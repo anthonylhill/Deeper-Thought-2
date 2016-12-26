@@ -8,7 +8,7 @@ Deeper Thought 2 is a fork of [Deeper Thought by Norman Davie](https://groups.go
 #####Added modes by changing the 3 far left brown switches (0=down / 1=up)
 * **111** = Normal mode with all LEDs flashing (Default / Undefined fallback)
 * **011** = Sleep Mode (All LEDs off except for the columns on the right side of the panel)
-* **101** = Dim Mode - Fewer LEDs Blink (Only the Program Counter, Memory Address and Memory Buffer groups)
+* **101** = 24x7 mode - looks more like a time share computer with load changing during the day
 * **110** = Binary Clock (From top to bottom: Hour, Minute, Second, Month, Day)
 * **001** = Snake Mode (3 LEDs move across a row then down to the next row in the opposite direction)
 * **000** = Test Mode (All LEDs on steady, except some of the columns of LEDs on the right blink off for 20ms)
